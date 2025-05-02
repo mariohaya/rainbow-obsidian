@@ -1,11 +1,11 @@
 # rainbow-obsidian
 Simple .css snippet for obsidian for rainbow folders
 This snippet does not change fonts, font size, font style, padding, margins, etc.
-![image](https://github.com/user-attachments/assets/6fd9dd3e-aca1-49c9-adbd-498523cd79d8)
 
 # Installation
-- Drag rainbow.css to .obsidian/snippets
-- You can find the .obsidian directory in your vault's folders
+- Drag *rainbow.css* to your snippets directory (*.obsidian/snippets*)
+- You can find the .obsidian folder in the same folder where your vault is located.
+- Enable the .css file in Settings > Appeareance > CSS snippets
 
 # Variations
 ## rainbow.css (standard)
