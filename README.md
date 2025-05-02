@@ -1,6 +1,10 @@
 # rainbow-obsidian
 Simple .css snippet for obsidian for rainbow folders
 This snippet does not change fonts, font size, font style, padding, margins, etc.
+Three variations available:
+- rainbow.css (standard)
+- rainbow_contrast.css (high contrast, better for dark themes)
+- rainbow_dark.css (darker colors, better for light themes)
 
 # Installation
 - Drag *rainbow.css* to your snippets directory (/.obsidian/snippets/)
