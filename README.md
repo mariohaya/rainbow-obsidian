@@ -10,7 +10,7 @@ This snippet does not change fonts, font size, font style, padding, margins, etc
 # Variations
 ## rainbow.css (standard)
 ### default (light)
-![image](https://github.com/user-attachments/assets/1c3153c9-7f52-4069-8175-0762972f39d2)
+![image](https://github.com/user-attachments/assets/1c3153c9-7f52-4069-8175-0762972f39d2){: width="300" }
 
 ### default (dark)
 ![image](https://github.com/user-attachments/assets/74c3cd66-33ec-4d0b-9216-b49c512fde63)
