@@ -1,8 +1,7 @@
 # rainbow-obsidian
 Simple .css snippet for obsidian for rainbow folders
 This snippet does not change fonts, font size, font style, padding, margins, etc.
-
-![image](https://github.com/user-attachments/assets/42ce53c3-2ab0-4f6a-9218-e61f1d6e0d2a)
+![image](https://github.com/user-attachments/assets/6fd9dd3e-aca1-49c9-adbd-498523cd79d8)
 
 # Installation
 - Drag rainbow.css to .obsidian/snippets
@@ -10,11 +9,24 @@ This snippet does not change fonts, font size, font style, padding, margins, etc
 
 # Variations
 ## rainbow.css (standard)
-![image](https://github.com/user-attachments/assets/263a4399-4641-4f67-8492-8f3021ec6a38)
+### default (light)
+![image](https://github.com/user-attachments/assets/1c3153c9-7f52-4069-8175-0762972f39d2)
+
+### default (dark)
+![image](https://github.com/user-attachments/assets/74c3cd66-33ec-4d0b-9216-b49c512fde63)
+
+### gruvbox (light)
+![image](https://github.com/user-attachments/assets/19c9115a-694e-46cd-a831-0f70a5a025c2)
+
+### gruvbox (dark)
+![image](https://github.com/user-attachments/assets/a5ba4bf0-ad7a-4c7f-a0cc-d81486391fc7)
+
+### transparent (light)
+![image](https://github.com/user-attachments/assets/1f1fd6e9-ed76-46f1-97b4-20fbc8b722c5)
+
+### transparent (dark)
+![image](https://github.com/user-attachments/assets/a946ba88-150f-4fac-8c6f-2b73a204bf8c)
 
 ## rainbow_contrast.css
 
 ## rainbow_dark.css
-![image](https://github.com/user-attachments/assets/974c51a0-80dd-41c5-b4c2-d47cf0720186)
-![image](https://github.com/user-attachments/assets/638946d6-b4f2-4972-8347-868d6a04a773)
-![image](https://github.com/user-attachments/assets/6335c228-2b1b-424d-b778-3f6e6f60131a)
