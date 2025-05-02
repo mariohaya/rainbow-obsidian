@@ -1,0 +1,111 @@
+
+:root{
+    /* folder colours */
+    --Fold0: #f44336;
+    --Fold1: #f76c6c;
+    --Fold2: #f4b830;
+    --Fold3: #f4cf4f;
+    --Fold4: #a4d96b;
+    --Fold5: #6ab8f3;
+    --Fold6: #a79de8;
+    --Fold7: #e387d4;
+    --Fold8: #d59f59;
+    --Fold9: #c1c8d1;
+    --FoldA: #f0aaaa;
+    --FoldB: #f1b86f;
+    --FoldC: #7acc93;
+    --FoldD: #87c9d9;
+    --FoldE: #96abde;
+    --FoldF: #eb9fc9;
+    --FoldText: #000000;
+}
+
+.nav-folder:nth-child(9n+2) .nav-folder-title,
+.nav-folder .nav-folder:nth-child(9n+2) .nav-folder-title,
+.nav-folder-children .nav-folder:nth-child(9n+2) .nav-folder-title,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+2) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+2) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+2) .nav-folder-title {
+    color: var(--Fold1);
+    border-radius: 5px; margin-top: 2px;
+}
+
+.nav-folder:nth-child(9n+3) .nav-folder-title,
+.nav-folder .nav-folder:nth-child(9n+3) .nav-folder-title,
+.nav-folder-children .nav-folder:nth-child(9n+3) .nav-folder-title,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+3) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+3) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+3) .nav-folder-title {
+    color: var(--Fold2);
+    border-radius: 5px; margin-top: 2px;
+}
+
+.nav-folder:nth-child(9n+4) .nav-folder-title,
+.nav-folder .nav-folder:nth-child(9n+4) .nav-folder-title,
+.nav-folder-children .nav-folder:nth-child(9n+4) .nav-folder-title,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+4) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+4) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+4) .nav-folder-title {
+    color: var(--Fold3);
+    border-radius: 5px; margin-top: 2px;
+}
+
+.nav-folder:nth-child(9n+5) .nav-folder-title,
+.nav-folder .nav-folder:nth-child(9n+5) .nav-folder-title,
+.nav-folder-children .nav-folder:nth-child(9n+5) .nav-folder-title,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+5) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+5) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+5) .nav-folder-title {
+    color: var(--Fold4);
+    border-radius: 5px; margin-top: 2px;
+}
+
+.nav-folder:nth-child(9n+6) .nav-folder-title,
+.nav-folder .nav-folder:nth-child(9n+6) .nav-folder-title,
+.nav-folder-children .nav-folder:nth-child(9n+6) .nav-folder-title,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+6) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+6) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+6) .nav-folder-title {
+    color: var(--Fold5);
+    border-radius: 5px; margin-top: 2px;
+}
+
+.nav-folder:nth-child(9n+7) .nav-folder-title,
+.nav-folder .nav-folder:nth-child(9n+7) .nav-folder-title,
+.nav-folder-children .nav-folder:nth-child(9n+7) .nav-folder-title,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+7) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+7) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+7) .nav-folder-title {
+    color: var(--Fold6);
+    border-radius: 5px; margin-top: 2px;
+}
+
+.nav-folder:nth-child(9n+8) .nav-folder-title,
+.nav-folder .nav-folder:nth-child(9n+8) .nav-folder-title,
+.nav-folder-children .nav-folder:nth-child(9n+8) .nav-folder-title,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+8) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+8) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+8) .nav-folder-title {
+    color: var(--Fold7);
+    border-radius: 5px; margin-top: 2px;
+}
+
+.nav-folder:nth-child(9n+9) .nav-folder-title,
+.nav-folder .nav-folder:nth-child(9n+9) .nav-folder-title,
+.nav-folder-children .nav-folder:nth-child(9n+9) .nav-folder-title,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+9) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+9) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+9) .nav-folder-title {
+    color: var(--Fold8);
+    border-radius: 5px; margin-top: 2px;
+}
+
+.nav-folder:nth-child(9n+10) .nav-folder-title,
+.nav-folder .nav-folder:nth-child(9n+10) .nav-folder-title,
+.nav-folder-children .nav-folder:nth-child(9n+10) .nav-folder-title,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+10) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+10) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+10) .nav-folder-title {
+    color: var(--Fold9);
+    border-radius: 5px; margin-top: 2px;
+}
