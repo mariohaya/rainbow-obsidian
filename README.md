@@ -27,6 +27,24 @@ This snippet does not change fonts, font size, font style, padding, margins, etc
 ### transparent (dark)
 ![image](https://github.com/user-attachments/assets/a946ba88-150f-4fac-8c6f-2b73a204bf8c)
 
+## rainbow_dark.css
+
+### default (light)
+![image](https://github.com/user-attachments/assets/3876e3f8-8dc7-4fea-b4c6-c8202f26d632)
+
+### default (dark)
+![image](https://github.com/user-attachments/assets/d11bb3b8-fcb3-408d-bf58-2395482f6402)
+
+### gruvbox (light)
+![image](https://github.com/user-attachments/assets/e0be0cbb-bf72-46c9-99c2-9300c7f6cef1)
+
+### gruvbox (dark)
+![image](https://github.com/user-attachments/assets/e64e638a-d7be-4ea9-8a8c-900ef6e8533b)
+
 ## rainbow_contrast.css
 
-## rainbow_dark.css
+### default (dark)
+![image](https://github.com/user-attachments/assets/625e7602-29b5-4290-ac30-374a324b76f0)
+
+### gruvbox (dark)
+![image](https://github.com/user-attachments/assets/368606eb-6039-403a-9b1d-e4ddeb45823e)
